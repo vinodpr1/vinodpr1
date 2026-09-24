@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinod Kumar Prajapati</h1>
-<h3 align="center">Enthusiastic full stack developer with 1.5 year hands on experience in TypScript, MERN, Next, PostGre , Prisma, Docker, Websocket, AWS. Loves Problem Solving and to unravel the mysteries behind the magic of computer science</h3>
+<h3 align="center">Enthusiastic full stack developer with 3.5 year hands on experience in TypScript, MERN, Next, PostGre , Prisma, Docker, Websocket, AWS. Loves Problem Solving and to unravel the mysteries behind the magic of computer science</h3>
 
 <p align="left"> <a href="https://x.com/vinodpr57196612" target="blank"><img src="https://img.shields.io/twitter/follow/vinodpr57196612?logo=twitter&style=for-the-badge" alt="vinodpr57196612" /></a> </p>
 
